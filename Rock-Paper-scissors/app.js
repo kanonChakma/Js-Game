@@ -56,6 +56,3 @@ const getResult = () => {
   resultDisplay.innerHTML = result;
 }
 
-
-
-
