@@ -1,0 +1,11 @@
+
+if you pick rock against scissor = win;
+if you pick rock against paper = lose;
+
+if you pick secciors against paper = win;
+if you pick secciors against rock = loose;
+
+if you pick paper against rock = win;
+if you pick paper against secciors = lose;
+
+
